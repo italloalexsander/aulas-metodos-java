@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f11e9524-5046-4efa-9745-b753006a9c26" name="Changes" comment="Aula 2">
+      <change afterPath="$PROJECT_DIR$/src/aula/tres/QuadrilateroAlternativo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aula/dois/Quadrilatero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aula/dois/Quadrilatero.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,6 +85,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Retornos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula.tres.Retornos" />
+      <module name="Java-Metodos-Basicos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aula.tres.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Sobrecarga" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="aula.dois.Sobrecarga" />
       <module name="Java-Metodos-Basicos" />
@@ -101,6 +114,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Sobrecarga" />
+        <item itemvalue="Application.Retornos" />
         <item itemvalue="Application.Emprestimo" />
         <item itemvalue="Application.HoraDia" />
         <item itemvalue="Application.Calculadora" />
@@ -130,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651175663616</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Aula 2">
+      <created>1651175861346</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1651175861346</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
