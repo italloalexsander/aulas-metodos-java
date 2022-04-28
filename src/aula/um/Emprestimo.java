@@ -22,6 +22,7 @@ public class Emprestimo {
                     valorFinal);
         }
 
+        input.close();
     }
 
     public static double fazerEmprestimo(double valor, int parcelas) {
